@@ -8,7 +8,7 @@ Sample MULTOS smart card application. Used to test multosapploader
 
 ## Setup MULTOS SmartDeck Compiler
 
- 1. Install [MULTOS SmartDeck](www.multos.com/developer_centre/tools_and_sdk/).
+ 1. Install [MULTOS SmartDeck](https://www.multos.com/developer_centre/tools_and_sdk).
  2. Add the installation's bin folder to the PATH environment variable. E.g. C:\Program Files (x86)\SmartDeck\bin
  3. Add the installation's include folder to the INCLUDE environment variable. E.g C:\Program Files (x86)\SmartDeck\include 
 
