@@ -1,0 +1,8 @@
+# Git
+*.orig
+
+# VS Code
+.vscode/
+
+# SmartDeck
+bin/
