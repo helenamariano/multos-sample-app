@@ -14,9 +14,6 @@ OUTPUT_CERTS = $(OUTPUT_DIR)/$(OUTPUT_NAME)
 OUTPUT_ALC = $(OUTPUT_DIR)/$(OUTPUT_NAME).alc
 OUTPUT_ADC = $(OUTPUT_DIR)/$(OUTPUT_NAME).adc
 
-# Header Files
-H_SRCS := $(foreach dir,$(INCLUDE_DIRS),$(wildcard $(INCLUDE_DIRS)/*.h))
-
 # Source Directories
 C_SRCS_DIRS += \
 src
